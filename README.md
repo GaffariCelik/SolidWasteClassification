@@ -1,5 +1,5 @@
 
-# Solid Waste Image Classification Project  
+# Solid Waste Image Classification  
 
 This project utilizes **deep learning and computer vision techniques** to classify solid waste images. The goal is to automatically identify different waste types (plastic, paper, metal, glass, etc.) to facilitate recycling processes.  
 
