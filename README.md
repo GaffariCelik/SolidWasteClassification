@@ -1,7 +1,7 @@
 
 # Multi-Layer Feature Fusion for High-Accuracy Solid Waste Classification using a Hybrid Deep Learning Model
 
-This project utilizes **deep learning and computer vision techniques** to classify solid waste images. The goal is to automatically identify different waste types (plastic, paper, metal, glass, etc.) to facilitate recycling processes.  
+This study utilizes **deep learning and computer vision techniques** to classify solid waste images. The goal is to automatically identify different waste types (plastic, paper, metal, glass, etc.) to facilitate recycling processes.  
 
 # Technologies Used  
 - Python  
@@ -10,7 +10,7 @@ This project utilizes **deep learning and computer vision techniques** to classi
 - NumPy, Pandas, Matplotlib  
 
 # Dataset  
-This project uses the following datasets containing various types of solid waste:  
+This study uses the following datasets containing various types of solid waste:  
 
 - **Household_Garbage Dataset**: [Kaggle Link](https://www.kaggle.com/datasets/mostafaabla/garbage-classification)  
 - **TrashNet Dataset**: [Kaggle Link](https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification/data)  
