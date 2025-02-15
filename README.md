@@ -3,7 +3,11 @@
 
 This study utilizes **deep learning and computer vision techniques** to classify solid waste images. The goal is to automatically identify different waste types (plastic, paper, metal, glass, etc.) to facilitate recycling processes. The basic structure of the proposed model is given below.
 
+
+
 ![Garbage_Classification-ProposedModule drawio](https://github.com/user-attachments/assets/c2597307-2216-4817-86f6-1cb4f4c17367)
+
+
 
 
 # Technologies Used  
@@ -20,9 +24,9 @@ This study uses the following datasets containing various types of solid waste:
 
 The images are categorized and labeled accordingly, and the model is trained on this data.  
 
-Additionally, the organized data and the weights of the proposed model can be accessed here.
+Additionally, the organized data and the weights of the proposed model can be accessed [here](https://drive.google.com/drive/folders/1QRU2_Sj_AbgGYsIxt8XwHueI0VBaujsR?usp=sharing).
 
--**Datasets and weights**: [Link](https://drive.google.com/drive/folders/1QRU2_Sj_AbgGYsIxt8XwHueI0VBaujsR?usp=sharing)
+
 ## Usage Steps  
 1. **img2nparray.py** → Resizes images and converts them into `nparray` format.  
 2. **config.py** → Sets parameters.  
