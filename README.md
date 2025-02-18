@@ -15,8 +15,11 @@ This study utilizes **deep learning and computer vision techniques** to classify
 ![TrashNet_tablo](https://github.com/user-attachments/assets/d4d9048e-a2f2-4d65-a06b-6b0b528b9dd3)
 
 
+ 
+
 ![TrashNet](https://github.com/user-attachments/assets/e4ed8dd7-4aad-4926-b88c-8e030a9ab971)
-     Confusion matrix results of (a) the proposed model, (b) EfficientNetB0, and (c) InceptionV3 models
+     Confusion matrix results of (a) the proposed model, (b) EfficientNetB0, and (c) InceptionV3 models. 
+      0: cardboard, 1: glass, 2: metal, 3: paper, 4: plastic, and 5: trash
 
 - **Results obtained based on test data on the Household_Garbage dataset:**
   
@@ -24,7 +27,8 @@ This study utilizes **deep learning and computer vision techniques** to classify
 
 ![HouseHold_Garbage](https://github.com/user-attachments/assets/b0e29985-2150-4b62-b002-ff3fa86fa004)
    
-     Confusion matrix results of (a) the proposed model, (b) EfficientNetB0, and (c) InceptionV3 models 
+     Confusion matrix results of (a) the proposed model, (b) EfficientNetB0, and (c) InceptionV3 models. 
+     0: battery, 1: biological, 2: brown-glass, 3: cardboard, 4: clothes, 5Ç green-glass, 6: metal, 7: paper, 8: plastic, 9: shoes, 10: trash, and 11: white-glass
 
 
 # Technologies Used  
