@@ -28,7 +28,8 @@ This study utilizes **deep learning and computer vision techniques** to classify
 ![HouseHold_Garbage](https://github.com/user-attachments/assets/b0e29985-2150-4b62-b002-ff3fa86fa004)
    
      Confusion matrix results of (a) the proposed model, (b) EfficientNetB0, and (c) InceptionV3 models. 
-     0: battery, 1: biological, 2: brown-glass, 3: cardboard, 4: clothes, 5Ç green-glass, 6: metal, 7: paper, 8: plastic, 9: shoes, 10: trash, and 11: white-glass
+     0: battery, 1: biological, 2: brown-glass, 3: cardboard, 4: clothes, 5Ç green-glass, 6: metal, 
+     7: paper, 8: plastic, 9: shoes, 10: trash, and 11: white-glass
 
 
 # Technologies Used  
