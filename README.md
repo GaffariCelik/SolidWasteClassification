@@ -8,7 +8,7 @@ This study utilizes **deep learning and computer vision techniques** to classify
 ![Garbage_Classification-ProposedModule drawio](https://github.com/user-attachments/assets/c2597307-2216-4817-86f6-1cb4f4c17367)
 
 
-# Results
+# Experimental Results
 
 - **Results obtained based on test data on the TrashNet dataset:**
 
