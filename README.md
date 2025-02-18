@@ -16,14 +16,15 @@ This study utilizes **deep learning and computer vision techniques** to classify
 
 
 ![TrashNet](https://github.com/user-attachments/assets/e4ed8dd7-4aad-4926-b88c-8e030a9ab971)
-Confusion matrix results of (a) the proposed model, (b) EfficientNetB0, and (c) InceptionV3 models
+     Confusion matrix results of (a) the proposed model, (b) EfficientNetB0, and (c) InceptionV3 models
 
 - **Results obtained based on test data on the Household_Garbage dataset:**
   
 ![HouseHold_Garbage_Tablo](https://github.com/user-attachments/assets/e20b0a89-27b8-4994-a553-cdf223263332)
 
 ![HouseHold_Garbage](https://github.com/user-attachments/assets/b0e29985-2150-4b62-b002-ff3fa86fa004)
-Confusion matrix results of (a) the proposed model, (b) EfficientNetB0, and (c) InceptionV3 models 
+   
+     Confusion matrix results of (a) the proposed model, (b) EfficientNetB0, and (c) InceptionV3 models 
 
 
 # Technologies Used  
