@@ -60,11 +60,7 @@ Additionally, the organized data and the weights of the proposed model can be ac
 
 If you use this code in your research, please cite:  
 @article{
-  author = {Gaffari Celik},
-  title = {"Multi-Layer Feature Fusion for High-Accuracy Solid Waste Classification using a Hybrid Deep Learning Model"},
-  journal = {The Visual Computer},
-  year = {2025},
-  note = {Submitted}
+Celik, G. Multi-layer feature fusion for high-accuracy solid waste classification using a hybrid deep learning model. Vis Comput (2025). https://doi.org/10.1007/s00371-025-04031-3
 }
 
 
